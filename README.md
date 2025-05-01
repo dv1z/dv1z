@@ -1,16 +1,24 @@
-## Hi there 👋
+# **||------------------------| _Hello, friend._ |----------------------------||**
+<br />
 
-<!--
-**dv1z/dv1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img height="310" src="gifs/skull.gif" align=right>
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Just a guy trying to be something."*
+
+<br />
+<br />
+
+- 🖥️ In this profile, i'm solving programming questions and saving ideas of projects that i made;
+- 🧠 I'm currently learning cybersicurity and Machine Learning algorithms;
+- 🤓 I'm a student but i'm here to help you if i could!
+- 🌱 Hope you find what you are looking for!
+
+<br />
+<br />
+<br />
+<br />
+
+# **||-----------------------------------------------------------------------||**
