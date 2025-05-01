@@ -8,7 +8,7 @@
 
 *"You Afraid Of The Dark?"*
 
-<br />![skull](https://github.com/user-attachments/assets/9b107023-a00f-44c9-aa7e-345838d91c8a)
+<br />
 
 <br />
 
